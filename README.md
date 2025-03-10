@@ -1,6 +1,6 @@
 <h1 align="left">Muuvem</h1>
 
-> *"Igual aquele outro site só que muuito melhor"*
+> *"Igual aquele outro site só que MUUITO melhor"*
 
 <img align="right" height="220" src="https://i.imgur.com/G3JaXz4.png"/>
 
